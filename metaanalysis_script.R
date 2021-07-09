@@ -1,4 +1,4 @@
-### META-ANALYSIS SCRIPT MANUELA ###
+### META-ANALYSIS SCRIPT ###
 
 #---Load libraries---####
 library(dplyr)
